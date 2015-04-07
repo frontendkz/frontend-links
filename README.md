@@ -3,6 +3,7 @@
 Frontend links from our Slack chat
 
 - [API](#api)
+- [BEM](#bem)
 - [Books](#books)
 - [CSS](#css)
 - [Fonts](#fonts)
@@ -15,6 +16,9 @@ Frontend links from our Slack chat
 ## API
 *  [import.io](https://import.io/) – Instantly Turn Web Pages into Data
 *  [kimono](https://www.kimonolabs.com/) – Turn websites into structured APIs from your browser in seconds
+
+## BEM
+*  [Пишем БЭМ правильно](http://webstandardsdays.ru/2014/12/06/pres/bem-right/) – доклад про BEM, слайды
 
 ## Books
 *  [free-programming-books](https://github.com/vhf/free-programming-books) – List of Free Learning Resources
