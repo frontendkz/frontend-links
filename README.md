@@ -11,6 +11,7 @@ Frontend links from our Slack chat
 - [Icons](#icons)
 - [Javascript](#javascript)
 - [Node](#node)
+- [PostCSS](#postcss)
 - [Tools](#tools)
 
 ## API
@@ -58,6 +59,9 @@ Frontend links from our Slack chat
 ## Node
 *  [Node Frameworks](http://nodeframework.com/) – Hand-picked registry of Node.js frameworks.
 *  [SemVer in nodejs](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) – The Mystical & Magical SemVer Ranges Used By npm & Bower
+
+##PostCSS
+*  [PostCSS: будущее после Sass и Less](http://ai.github.io/about-postcss/) - Слайды про PostCSS
 
 ## Tools
 *  [code-screenshots](https://github.com/shuvalov-anton/code-screenshots) – Скриншоты редакторов кода разных разработчиков
