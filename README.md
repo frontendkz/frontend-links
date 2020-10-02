@@ -36,6 +36,8 @@ Frontend links from our Slack chat
 *  [Useful :nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
 *  [Количественные CSS селекторы](http://habrahabr.ru/post/252181/)
 *  [Производительность CSS-анимаций](http://forwebdev.ru/css/css-transitions-perfomance/) – Советы по оптимизации CSS-анимаций. Испытаны на боевом проекте.
+*  [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) – Очень хороший гайд для изучения Flexbox
+*  [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) – Очень хороший гайд для изучения Grid
 
 ## Fonts
 *  [Font Family Reunion](http://fontfamily.io/) – Compatibility tables for default local fonts.
